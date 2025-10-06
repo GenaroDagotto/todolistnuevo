@@ -1,0 +1,15 @@
+@model ToDoList.Models.TaskItem
+
+<h2>Create Task</h2>
+
+<form method="post">
+    <label>Title:</label><br/>
+    <input type="text" name="Title" required/><br/><br/>
+    
+    <label>Description:</label><br/>
+    <textarea name="Description"></textarea><br/><br/>
+    
+    <button type="submit">Create</button>
+</form>
+
+<a href="/Task/Index">Back to List</a>

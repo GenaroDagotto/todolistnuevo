@@ -1,0 +1,26 @@
+@model List<ToDoList.Models.TaskItem>
+
+<h1>My To-Do List</h1>
+<a href="/Task/Create">Add New Task</a>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Status</th>
+        <th>Actions</th>
+    </tr>
+    @foreach(var task in Model)
+    {
+        <tr>
+            <td>@task.Title</td>
+            <td>@task.Description</td>
+            <td>@(task.IsCompleted ? "Completed" : "Pending")</td>
+            <td>
+                <a href="/Task/Edit/@task.Id">Edit</a> |
+                <a href="/Task/Delete/@task.Id">Delete</a> |
+                <a href="/Task/ToggleComplete/@task.Id">Toggle Complete</a>
+            </td>
+        </tr>
+    }
+</table>

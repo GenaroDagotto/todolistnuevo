@@ -1,0 +1,22 @@
+@model ToDoList.Models.TaskItem
+
+<h2>Edit Task</h2>
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id"/>
+    
+    <label>Title:</label><br/>
+    <input type="text" name="Title" value="@Model.Title" required/><br/><br/>
+    
+    <label>Description:</label><br/>
+    <textarea name="Description">@Model.Description</textarea><br/><br/>
+    
+    <label>
+        <input type="checkbox" name="IsCompleted" value="true" @(Model.IsCompleted ? "checked" : "")/> 
+        Completed
+    </label><br/><br/>
+    
+    <button type="submit">Save</button>
+</form>
+
+<a href="/Task/Index">Back to List</a>
