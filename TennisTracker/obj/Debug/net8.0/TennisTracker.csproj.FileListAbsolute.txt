@@ -64,3 +64,4 @@
 /Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net8.0/TennisTr.28779E57.Up2Date
 /Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net8.0/TennisTracker.genruntimeconfig.cache
 /Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net8.0/ref/TennisTracker.dll
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net8.0/TennisTracker.sourcelink.json
