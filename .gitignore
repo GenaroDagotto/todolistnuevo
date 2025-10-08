@@ -1,0 +1,59 @@
+# Compilación .NET / Visual Studio
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+artifacts/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Paquetes
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Archivos de usuario/IDE
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# JetBrains Rider / IntelliJ
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+*.iml
+
+# ASP.NET / IIS
+appsettings.Development.json
+# Descomenta si no deseas versionar los perfiles de inicio locales
+# Properties/launchSettings.json
+
+# SO / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Logs
+*.log
+logs/
