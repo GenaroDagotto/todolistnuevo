@@ -1,0 +1,7 @@
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/Todolistaplicacion/obj/Debug/net9.0/Todolistaplicacion.csproj.AssemblyReference.cache
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/Todolistaplicacion/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/Todolistaplicacion/obj/Debug/net9.0/Avalonia/resources
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/Todolistaplicacion/obj/Debug/net9.0/Todolistaplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/Todolistaplicacion/obj/Debug/net9.0/Todolistaplicacion.AssemblyInfoInputs.cache
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/Todolistaplicacion/obj/Debug/net9.0/Todolistaplicacion.AssemblyInfo.cs
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/Todolistaplicacion/obj/Debug/net9.0/Todolistaplicacion.csproj.CoreCompileInputs.cache

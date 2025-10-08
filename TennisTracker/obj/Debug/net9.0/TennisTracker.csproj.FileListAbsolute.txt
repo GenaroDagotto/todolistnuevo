@@ -1,0 +1,7 @@
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net9.0/TennisTracker.csproj.AssemblyReference.cache
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net9.0/Avalonia/resources
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net9.0/TennisTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net9.0/TennisTracker.AssemblyInfoInputs.cache
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net9.0/TennisTracker.AssemblyInfo.cs
+/Users/carinavenanzetti/RiderProjects/Todolistaplicacion/TennisTracker/obj/Debug/net9.0/TennisTracker.csproj.CoreCompileInputs.cache
